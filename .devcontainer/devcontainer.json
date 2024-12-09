@@ -29,7 +29,9 @@
 			"extensions": [
 				"ms-python.python",
 				"ms-python.vscode-pylance",
-				"GitHub.copilot"
+				"ms-python.black-formatter",
+				"ms-azuretools.vscode-azure-github-copilot",
+				"ms-vscode.makefile-tools"
 			]
 		}
 	},
